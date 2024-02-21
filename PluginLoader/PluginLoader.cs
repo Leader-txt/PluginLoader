@@ -22,7 +22,7 @@ namespace PluginLoader
 
         public override string Author => "Leader，肝帝熙恩更新";
 
-        public override string Description => "A sample plugin to reload the plugins when server is running";
+        public override string Description => "热重载插件，可在服务器运行时重新加载插件。";
 
         public override string Name => "Plugin Loader";
 
