@@ -1,4 +1,4 @@
-## 插件热重载
+# 插件热重载
 
 让您在调试插件时更加快捷！
 
@@ -37,11 +37,11 @@ protected override void Dispose(bool disposing)
 
 ---
 
-### Plugin Hot Reload
+# Plugin Hot Reload
 
 Allows for quicker debugging of plugins!
 
-## Permissions
+### Permissions
 
 - pluginloader.admin
 
